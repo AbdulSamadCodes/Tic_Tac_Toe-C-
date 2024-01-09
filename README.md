@@ -1,1 +1,1 @@
-# A TiC Tac Toe game in C#(Winforms).
+# A Tic Tac Toe game in C#(Winforms).
