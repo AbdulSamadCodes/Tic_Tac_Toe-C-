@@ -1,1 +1,1 @@
-# Tic_Tac_Toe(C#)
+# A TiC Tac Toe game in C#(Winforms).
